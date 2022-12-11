@@ -1,0 +1,21 @@
+
+.photo{ margin-left:140px; padding-top: 200px; padding-right: 100px; text-align: center; }/* üst resim box alanı*/
+.box-bottom{background-color: rgb(189, 188, 188); width: 1100px; height: 65px;} /* arama  box alanı*/
+.box-flooter-left{background-color: rgb(103, 209, 177); width: 300px; height: 100px; float: left; margin-top: 9px;}/* sol kısım box alanı*/
+.box-flooter-center{background-color: rgb(55, 182, 144); width: 490px; height: 100px; float: left; margin-top: 9px; margin-left: 5px;}/* orta kısım box alanı*/
+.box-flooter-right{background-color: rgb(19, 134, 100); width: 300px; height: 100px; float: left; margin-top: 9px; margin-left: 5px;}/* sag kısım box alanı*/
+.box-flooter-bottom{ width: 120px; height: 80px;  margin-top: 23px; margin-left: -315px; text-align: center;  }/* alt kısım box alanı*/
+/* sol kısım box alanı*/
+.box-span{margin-top: 10px; text-align: center;}
+.box-span1{ text-align: center;}
+.box-span2{ text-align: center;}
+
+/* orta kısım box alanı*/
+.box-span3{margin-top: 10px; text-align: center;}
+.box-span4{ text-align: center;}
+.box-span5{ text-align: center;}
+.box-span6{ text-align: center;}
+
+/* sag kısım box alanı*/
+
+.box-span7{ text-align: center;}
